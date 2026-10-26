@@ -3,9 +3,6 @@ using MiniBanco.ConsoleApp.Exceptions;
 
 namespace MiniBanco.ConsoleApp.Models
 {
-    /// <summary>
-    /// RF03 - Conta com cheque especial e tarifa de manutenção mensal.
-    /// </summary>
     public class ContaCorrente : Conta
     {
         private const decimal TarifaManutencao = 10.00m;
