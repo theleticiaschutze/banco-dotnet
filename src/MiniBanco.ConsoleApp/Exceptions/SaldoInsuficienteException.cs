@@ -2,9 +2,6 @@ using System;
 
 namespace MiniBanco.ConsoleApp.Exceptions
 {
-    /// <summary>
-    /// Lançada por Sacar() quando o saque não é permitido (saldo/limite insuficiente).
-    /// </summary>
     public class SaldoInsuficienteException : Exception
     {
         public decimal ValorSolicitado { get; }

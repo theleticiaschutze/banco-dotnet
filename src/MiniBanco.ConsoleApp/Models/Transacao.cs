@@ -2,9 +2,6 @@ using System;
 
 namespace MiniBanco.ConsoleApp.Models
 {
-    /// <summary>
-    /// RF01 - Representa uma movimentação da conta (Deposito, Saque ou Tarifa).
-    /// </summary>
     public class Transacao
     {
         // Constantes evitam erro de digitação nas strings de tipo.
