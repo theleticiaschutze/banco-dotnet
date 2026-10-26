@@ -35,7 +35,7 @@ namespace MiniBanco.ConsoleApp.Models
         {
             decimal rendimento = Math.Round(this.Saldo * (decimal)this.TaxaRendimentoMensal / 100m, 2);
 
-            // Transacao exige valor > 0: sem saldo ou sem taxa, não há rendimento a registrar.
+            // Transacao exige valor > 0 sem saldo ou sem taxa, não há rendimento a registrar.
             if (rendimento > 0)
             {
                 Depositar(rendimento, "Rendimento mensal");
