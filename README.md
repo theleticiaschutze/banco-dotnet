@@ -1,7 +1,7 @@
 # MiniBanco.ConsoleApp — Motor de Gestão de Contas Bancárias
 
 > **Identificação:** Letícia Schütze — Desenvolvedor Back-End.NET SCTEC
-> **Vídeo de apresentação:** ...sendo feito...
+> **Vídeo de apresentação:** https://drive.google.com/file/d/17dJm0tnBaTSDJZoSHGU2TuyJeVkdaLuh/view?usp=sharing
 
 ## Objetivo
 
