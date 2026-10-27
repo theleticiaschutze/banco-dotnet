@@ -15,7 +15,7 @@ herança, `virtual`/`override`, polimorfismo), tratamento de exceções e versio
 ## Como executar
 
 ```bash
-git clone <url-do-seu-repositorio>
+git clone <https://github.com/theleticiaschutze/banco-dotnet.git>
 cd minibanco-dotnet/src/MiniBanco.ConsoleApp
 dotnet run
 ```
